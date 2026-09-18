@@ -1,3 +1,9 @@
+### MAC OS
+.DS_store
+
+### Quarto
+\correa_week2-609_files
+
 # History files
 .Rhistory
 .Rapp.history
