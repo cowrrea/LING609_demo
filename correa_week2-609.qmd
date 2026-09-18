@@ -19,7 +19,7 @@ library(knitr)
 
 ## Downloading the data
 
-- Paper: Gibson and Hu (2013), "Processing Chinese relative clauses in context"
+- Paper: Gibson and Wu (2013), "Processing Chinese relative clauses in context"
 - Source: https://github.com/vasishth/NicenboimVasishthPart2
   - The column labels do not seem to match the number of columns in the actual data
   - I manually skipped the first row and included an additional column label to match the 10 columns in the data. **However, I don't understand why R says it's seeing 11 columns in the data!**
@@ -57,7 +57,7 @@ kable(mean.RT)
 
 ## Summary
 
-- My findings seem to line up with what is reported in Figure 1 of Gibson and Yu (2013).
+- My findings seem to line up with what is reported in Figure 1 of Gibson and Wu (2013).
 
   - For SRCs, I found a mean RT = 610.5 ms (n = 272, standard error = 46.7).
 
